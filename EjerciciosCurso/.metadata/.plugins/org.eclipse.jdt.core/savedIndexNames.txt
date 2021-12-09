@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\bderenzis\Desktop\Curso Solid\EjerciciosCurso\.metadata\.plugins\org.eclipse.jdt.core
+2060518626.index
+1865797976.index
+4248367930.index
+372580519.index

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\bderenzis\Desktop\Curso Solid\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2872044937.index
+2002767076.index
+1152996227.index
+4248367930.index

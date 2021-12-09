@@ -1,0 +1,7 @@
+package org.formacion.ocp;
+
+public class GeneradorPrimosOrdenInverso extends GeneradorPrimos {
+	protected Comparator<Integer> getOrdenacion(){
+		return (a,b) -> a > b? -1: 1;
+	}
+}
